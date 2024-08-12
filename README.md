@@ -1,1 +1,0 @@
-# light-weighted-cnn-imdb
